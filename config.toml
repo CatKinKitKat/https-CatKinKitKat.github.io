@@ -1,0 +1,15 @@
+base_url = "https://catkinkitkat.github.io/https-CatKinKitKat.github.io"
+title = "CatKinKitKat Blog"
+default_language = "en"
+theme = "anemone"
+
+[extra]
+author = "CatKinKitKat"
+enable_search = true
+list_pages = true
+
+header_nav = [
+    { url = "/", name_en = "Home" },
+    { url = "/blog", name_en = "Blog" }
+]
+
